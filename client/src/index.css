@@ -1,0 +1,55 @@
+body {
+  overflow-x: hidden;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+.ant-modal-footer {
+  display: none;
+}
+
+.ant-select-selector {
+  height: 50px !important;
+}
+
+.ant-select-selection-placeholder,
+.ant-select-selection-item {
+  margin-top: 5px;
+}
+.btn-square {
+  border-radius: 0;
+}
+
+.innerbox {
+  height: 530px;
+  width: 250px;
+  border-radius: 5px;
+}
+
+.align-center {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.a:hover {
+  transform: scale(1.03);
+  background-color: #000;
+  opacity: 0.8;
+}
+
+.main-footer {
+  color: white;
+  background-color: #add8e6;
+  padding-top: 3em;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
+
+.checked {
+  color: orange;
+}
