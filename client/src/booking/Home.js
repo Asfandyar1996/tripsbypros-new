@@ -1,7 +1,6 @@
 import { useState, useEffect } from "react";
 import { allHotels } from "../actions/hotel";
 import Search from "../components/forms/Search";
-// import CardSlider from "../components/Slider";
 import CardSlider from "../components/SwiperSlider";
 import TopDestinations from "../components/TopDestinations";
 import Bar from "../images/bestpricebar2.jpg";
